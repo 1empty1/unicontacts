@@ -49,7 +49,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone [https://github.com/your-username/university-phonebook.git](https://github.com/your-username/university-phonebook.git)
+git clone [https://github.com/1empty1/unicontacts.git](https://github.com/1empty1/unicontacts.git)
 cd university-phonebook
 
 2. Установка зависимостей
@@ -65,10 +65,7 @@ pip install -r requirements.txt
 
 3. Настройка окружения (.env)
 
-Создайте файл .env в корне проекта и укажите параметры подключения. Внимание: Никогда не загружайте .env в публичный репозиторий!
-
 Пример .env:
-Ini, TOML
 
 # Database Configuration
 DB_HOST=gateway01.eu-central-1.prod.aws.tidbcloud.com
