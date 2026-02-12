@@ -1,0 +1,6 @@
+customtkinter
+openpyxl
+matplotlib
+cryptography
+pymysql
+python-dotenv
